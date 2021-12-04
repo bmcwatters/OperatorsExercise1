@@ -1,0 +1,15 @@
+C:\Users\bmcwa\source\repos\OperatorsExercise1\OperatorsExercise1\bin\Debug\net6.0\OperatorsExercise1.exe
+C:\Users\bmcwa\source\repos\OperatorsExercise1\OperatorsExercise1\bin\Debug\net6.0\OperatorsExercise1.deps.json
+C:\Users\bmcwa\source\repos\OperatorsExercise1\OperatorsExercise1\bin\Debug\net6.0\OperatorsExercise1.runtimeconfig.json
+C:\Users\bmcwa\source\repos\OperatorsExercise1\OperatorsExercise1\bin\Debug\net6.0\OperatorsExercise1.dll
+C:\Users\bmcwa\source\repos\OperatorsExercise1\OperatorsExercise1\bin\Debug\net6.0\ref\OperatorsExercise1.dll
+C:\Users\bmcwa\source\repos\OperatorsExercise1\OperatorsExercise1\bin\Debug\net6.0\OperatorsExercise1.pdb
+C:\Users\bmcwa\source\repos\OperatorsExercise1\OperatorsExercise1\obj\Debug\net6.0\OperatorsExercise1.csproj.AssemblyReference.cache
+C:\Users\bmcwa\source\repos\OperatorsExercise1\OperatorsExercise1\obj\Debug\net6.0\OperatorsExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmcwa\source\repos\OperatorsExercise1\OperatorsExercise1\obj\Debug\net6.0\OperatorsExercise1.AssemblyInfoInputs.cache
+C:\Users\bmcwa\source\repos\OperatorsExercise1\OperatorsExercise1\obj\Debug\net6.0\OperatorsExercise1.AssemblyInfo.cs
+C:\Users\bmcwa\source\repos\OperatorsExercise1\OperatorsExercise1\obj\Debug\net6.0\OperatorsExercise1.csproj.CoreCompileInputs.cache
+C:\Users\bmcwa\source\repos\OperatorsExercise1\OperatorsExercise1\obj\Debug\net6.0\OperatorsExercise1.dll
+C:\Users\bmcwa\source\repos\OperatorsExercise1\OperatorsExercise1\obj\Debug\net6.0\ref\OperatorsExercise1.dll
+C:\Users\bmcwa\source\repos\OperatorsExercise1\OperatorsExercise1\obj\Debug\net6.0\OperatorsExercise1.pdb
+C:\Users\bmcwa\source\repos\OperatorsExercise1\OperatorsExercise1\obj\Debug\net6.0\OperatorsExercise1.genruntimeconfig.cache
